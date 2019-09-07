@@ -1,1 +1,0 @@
-## Factory24 Code of Conduct

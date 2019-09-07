@@ -1,1 +1,0 @@
-## Factory24 Leadership & Governance Models

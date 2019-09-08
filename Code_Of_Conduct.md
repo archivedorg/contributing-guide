@@ -28,7 +28,8 @@ Examples of unacceptable behavior by participants, both online and in person, su
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
   address, without explicit permission
-* Offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices
+* Offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability,
+  physical appearance, race, ethnicity, religion, technology choices
 * Intimidation, stalking, following, harassing photography or recording, or inappropriate physical contact
 * Sustained disruption of talks or other events
 * Other conduct which could reasonably be considered inappropriate in a

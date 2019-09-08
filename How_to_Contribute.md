@@ -58,13 +58,13 @@ It’s helpful to watch *(on GitHub, you can click “Watch” to be notified of
 Just as it's explained in the Github open source, one of the following will happen after you have submitted your 
 contribution:
 
-1. 😭 You don’t get a response - If you haven’t gotten a response in over a week, it’s fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread.
+1. 😭 **You don’t get a response** - If you haven’t gotten a response in over a week, it’s fair to politely respond in that same thread, asking someone for a review. If you know the name of the right person to review your contribution, you can @-mention them in that thread. Don’t reach out to that person privately; remember that public communication is vital to open source projects.
 
-Don’t reach out to that person privately; remember that public communication is vital to open source projects.
+2. 🚧 **Someone requests changes to your contribution** - It’s common that you’ll be asked to make changes to your contribution, whether that’s feedback on the scope of your idea, or changes to your code.
 
-2. 🚧 Someone requests changes to your contribution - It’s common that you’ll be asked to make changes to your contribution, whether that’s feedback on the scope of your idea, or changes to your code.
+3. 👎 **Your contribution doesn’t get accepted** - Your contribution may or may not be accepted in the end. Hopefully you didn’t put too much work into it already. If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you’ll need to respect that this is their decision.
 
-3. 👎 Your contribution doesn’t get accepted - Your contribution may or may not be accepted in the end. Hopefully you didn’t put too much work into it already. If you’re not sure why it wasn’t accepted, it’s perfectly reasonable to ask the maintainer for feedback and clarification. Ultimately, however, you’ll need to respect that this is their decision.
+4. 🎉 **Your contribution gets accepted** - Hooray! You’ve successfully made an open source contribution to Factory24.
 
-4. 🎉 Your contribution gets accepted - Hooray! You’ve successfully made an open source contribution to Factory24.
+Now that you're familiar with our contribution model, it's vital that you read and accept our **[Code of Conduct](https://github.com/factory24/contributing-guide/blob/master/Code_Of_Conduct.md)** which all our members, contributers and maintainers are required to enforce. 
 

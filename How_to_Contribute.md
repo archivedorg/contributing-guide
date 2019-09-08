@@ -33,3 +33,12 @@ by contributing through:
 
 ### Finding A Project To Contribute To
 
+Now that you know all the ways you can start contributing to Factory24, the best way to identify projects you can start 
+contributing to is by starting with what you do best. Some of the resources you can use to determine where to start include:
+
+* Open Issues & Pull Requests
+* Project Documentation
+* License Maintenance
+
+### How To Submit A Contribution
+

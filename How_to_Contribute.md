@@ -42,3 +42,15 @@ contributing to is by starting with what you do best. Some of the resources you 
 
 ### How To Submit A Contribution
 
+Once you've identified an area you can assist with, take note of the following before opening an issue or pull request:
+
+ - Give context on the issue to help other contributers and maintainers get up to speed quickly
+ - Ensure you have done proper research on the issue - most often, solutions are already addressed in a README, project 
+    document, or on other closed issues & PRs
+ - Only issues regarding systems or network security should be shared with maintainers **privately**
+ - Although we welcome all contributions, not all suggestions, ideas or requests can be intergrated - although this will 
+    vary from project to project, kindly respect community decisions and feedback to contributions.
+
+It’s helpful to watch *(on GitHub, you can click “Watch” to be notified of all conversations)* the projects that you're interested in to familiarize with how contributions are made, received and resolved. 
+
+### 

@@ -67,7 +67,7 @@ to agree with and abide by this Code of Conduct.
 ## Enforcement & Reporting Procedure
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting **Factory24** at**[factory24@protonmail.com](mailto:factory24@protonmail.com)**. 
+reported by contacting **Factory24** at **[factory24@protonmail.com](mailto:factory24@protonmail.com)**. 
 All complaintswill be reviewed and investigated and will result in a response that 
 is deemednecessary and appropriate to the circumstances. The chapter organizing team 
 is obligated to maintain confidentiality with regard to the reporter of an incident.

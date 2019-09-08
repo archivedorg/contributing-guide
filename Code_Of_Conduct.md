@@ -2,12 +2,12 @@
 
 ## Our Pledge
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project, community,
-and events a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, sex characteristics, gender identity and expression,
-level of experience, education, socio-economic status, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
+At Factory24 we are keen on providing an open and welcoming environment for all our members,
+pledging as contributors and maintainers to ensure participating in our projects, community 
+and events remains a harassment-free experience for everyone, regardless of age, disability, 
+ethnicity, sex characteristics, gender identity and expression, level of experience, education, 
+socio-economic status, nationality, personal appearance, race, religion, or sexual identity and 
+orientation.
 
 ## Our Standards
 

@@ -19,5 +19,4 @@ including:
 * Maintainers Best Practises
 * Leadership & Governance Model
 
-Want to get started contributing to some of your Factory24 projects, start by going through this **[How To Contribute]()** 
-guideline.
+Want to get started contributing to some of your Factory24 projects, start by going through this **[How To Contribute](https://github.com/factory24/contributing-guide/blob/master/How_to_Contribute.md)** guideline.

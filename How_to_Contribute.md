@@ -18,17 +18,17 @@ than just writing code.
 Together we can identify and nurture next-gen innovators, entrepreneurs & creative problem solvers from Africa 
 by contributing through:
 
- * Facilitating & Organizing a Factory24 chapter in your country - currently Factory24 is active in 8 of 
+ * **Facilitating & Organizing a Factory24 chapter in your country** - currently Factory24 is active in 8 of 
  the 54 countries in Africa. You can help by expanding our presence by opening and facilitating Factory24 
  events in your country or city. 
 
- * Promoting Factory24 through Media - Do you like to write, speak, do you have an active social media presence,
+ * **Promoting Factory24 through Media** - Do you like to write, speak, do you have an active social media presence,
  you curate newsletters, media posts, interviews and promotions of Factory24 in your locally or internationally.
 
- * Offer to mentor developers and mentors - Mentor next generation of entrepreneurs of African start-ups with 
+ * **Offer to mentor developers and mentors** - Mentor next generation of entrepreneurs of African start-ups with 
  your expertise, experience and know-how and help them become market ready.
 
- * Write code & maintain open sourced projects - Interested in IoT, Blockchain, and working on real world projects? 
+ * **Write code & maintain open sourced projects** - Interested in IoT, Blockchain, and working on real world projects? 
  Automate project setup, Improve tooling and testing or help write a new feature. 
 
 ### Finding A Project To Contribute To

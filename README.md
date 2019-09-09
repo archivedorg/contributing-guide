@@ -1,4 +1,4 @@
-## Contributing Guidelines
+# 🛠⛏ Contributing Guidelines
 
 [![](https://img.shields.io/badge/made%20by-Afrolynk-maroon.svg?style=flat-square)](https://afrolynk.com/)
 [![](https://img.shields.io/badge/project-Factory24-maroon.svg?style=flat-square)](http://factory24.org/)
@@ -19,7 +19,8 @@ including:
 * Maintainers Best Practises
 * Leadership & Governance Model
 
-Want to get started contributing to some of your Factory24 projects, start by going through this **[How To Contribute](https://github.com/factory24/contributing-guide/blob/master/How_to_Contribute.md)** guideline.
+Want to get started contributing to some of your Factory24 projects, lets start by going through our **How To Contribute** 
+guideline.
 
 ## How To Contribute 
 
@@ -54,7 +55,7 @@ by contributing through:
  * **Write code & maintain open sourced projects** - Interested in IoT, Blockchain, and working on real world projects? 
  Automate project setup, Improve tooling and testing or help write a new feature. 
 
-### Finding A Project To Contribute To
+### 🔬 Finding A Project To Contribute To
 
 Now that you know all the ways you can start contributing to Factory24, the best way to identify projects you can start 
 contributing to is by starting with what you do best. Some of the resources you can use to determine where to start include:

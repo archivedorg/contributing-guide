@@ -55,7 +55,7 @@ by contributing through:
  * **Write code & maintain open sourced projects** - Interested in IoT, Blockchain, and working on real world projects? 
  Automate project setup, Improve tooling and testing or help write a new feature. 
 
-### 🔬 Finding A Project To Contribute To
+### Finding A Project To Contribute To
 
 Now that you know all the ways you can start contributing to Factory24, the best way to identify projects you can start 
 contributing to is by starting with what you do best. Some of the resources you can use to determine where to start include:

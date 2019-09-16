@@ -32,4 +32,8 @@ Streamlining your contribution review process will help your project contributor
 
 ## Self-care Is The Best Care
 
+An an Open Source maintainer its fairly easy to get caught up in the daily work of updating a project status, reviewing code and pull requests, responding to issues and so much more - in such a scenario, you're likely to feel worn-out, burnt out or drained if you don't incorporate a regular self-care tips in your project management schedule. 
 
+We recommend all Factory24 maintainers apply regular self-care measures like taking frequent breaks, vacations and other non-work related activities to ensure you remain physically, mentally and emotionally fit to continue contributing and maintaining projects. 
+
+Although this is just a guide, as a maintainer you'll free to apply best practices in your project that remain a net benefit to the entire ecosystem. 

@@ -18,6 +18,18 @@ communication channels like Slack, Discord or IRCs.
 
 ## Task Automation
 
+Tests are an important aspect of code writing yet relying on humans to run all tests is not advisable. Github has a collection of tools that can help you as a maintainer ensure any and all code introduced to your project doesn't break the solution you're 
+building. 
+
+In your CONTRIBUTING file outline and explain the tests you'll be adding to your project. Also include the test you'll be intergrating to automate some of the aspects of your work. If you’re not sure which tools to use, look at what other popular projects do, especially those in your ecosystem. Some of the most commonly used tools include:
+
+* [semantic-release](https://github.com/semantic-release/semantic-release) automates your releases
+* [mention-bot](https://github.com/facebook/mention-bot) mentions potential reviewers for pull requests
+* [Danger](https://github.com/danger/danger) helps automate code review
+* [no-response](https://github.com/probot/no-response) closes issues where the author hasn’t responded to a request for more information
+
+Streamlining your contribution review process will help your project contributors familiarize themselves with your tools and approaches quicker - in turn, further enhancing the relationship.
+
 ## Self-care Is The Best Care
 
 
